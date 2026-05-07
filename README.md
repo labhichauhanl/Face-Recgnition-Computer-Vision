@@ -1,8 +1,8 @@
 # Face/Mood Recognition System
-A real-time computer vision application that detects faces and analyzes facial expressions to recognize and log moods. Designed for monitoring student engagement and emotional states in educational settings.
+A real-time computer vision application that detects faces and analyzes facial expressions to recognize and log moods. Designed for monitoring student engagement and emotional states in educational settings. The system captures facial images through a webcam, detects the face, extracts important facial features, and compares them with previously stored data to recognize the person's emotions.
 
 # Overview
-This project combines face detection and emotion recognition to provide real-time mood analysis from camera feeds. It automatically detects faces, analyzes their emotional expressions (e.g., happy, sad, angry, neutral, surprised), and logs the data for later analysis. Perfect for educators who want to gauge student engagement and provide timely intervention.
+This project combines face detection and emotion recognition techniques to provide real-time mood analysis from camera feeds. It automatically detects faces, analyzes their emotional expressions (e.g., happy, sad, angry, neutral, surprised), and logs the data for later analysis. Perfect for educators who want to gauge student engagement and provide timely intervention.
 
 # Features
 Real-Time Face Detection: Automatically detects multiple faces in the camera feed
